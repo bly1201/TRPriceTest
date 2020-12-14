@@ -1,1 +1,4 @@
-Please download the file and execute the test in MS Visual Studio.
+Please download the files
+Open the file in MS Visual Studio
+Run test from TestExplorer
+Choose Run All
